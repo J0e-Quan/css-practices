@@ -4,7 +4,9 @@ In the first exercise, you will style a simple blog post using external or inter
 
 Here's what you need to do:
 
-- 
+- give `body` a background colour of `aqua`
+- give the divs with the classes `first-section` and `ending` a background colour of `blueviolet` and padding of `1rem`
+- make the text inside the `first-section` and `ending` divs white
 
 ## Outcome image: 
 
