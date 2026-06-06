@@ -6,6 +6,13 @@ NOTE: Unlike the first exercise, classes and ids are NOT provided, you will have
 
 Here's what you need to do:
 
+- give the `h1` element a font-size of `3rem` and align the text to the `center`
+- give the `hr` element a height of `10px` and background-color of `skyblue`
+- give the div parenting all the remaining elements a padding of `1rem` and background-color of `antiquewhite`
+- give all `h2` elements font-size of `2rem` and decorate them with an `underline`
+- give all "regular text content" a font-size of `1.2rem`
+- give the 'Conclusion' heading a font-size of `3rem`
+- give the text below the 'Conclusion' heading a font-size of `1.5rem` and make the font-weight `normal`
 
 ## Outcome image: 
 
